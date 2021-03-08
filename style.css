@@ -1,0 +1,53 @@
+.whole{
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 2%;
+	padding-left: 60px;
+	padding-right: 60px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	box-shadow: 2px 2px 2px 2px black;
+}
+.bx{
+	display: flex;
+}
+.hd{
+	float: left;
+	text-align: left;
+	font-size: 26px;
+	width: 900px;
+}
+.add{
+	float: right;
+	width: 300px;
+}
+.para{
+	font-size: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-bottom: 10px;
+}
+.skl{
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+.str{
+	padding-bottom: 10px;
+}
+.pro{
+	padding-bottom: 10px;
+	font-size: 20px;
+}
+.tbl{
+	font-size: 19px;
+	padding-bottom: 10px;
+}
+.hob{
+	padding-bottom: 10px;
+	font-size: 18px;
+}
+.pd{
+	font-size: 18px;
+	padding-left: 20px;
+	padding-bottom: 10px;
+}
